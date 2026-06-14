@@ -1,0 +1,4 @@
+requests
+keyboard
+pywebview
+discord-rich-presence
