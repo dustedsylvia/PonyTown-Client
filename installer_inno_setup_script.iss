@@ -3,7 +3,7 @@
 ; Non-commercial use only
 
 #define MyAppName "Pony Town"
-#define MyAppVersion "1.0"
+#define MyAppVersion "1.1"
 #define MyAppURL "https://pony.town/"
 #define MyAppExeName "PonyTown.exe"
 
@@ -48,7 +48,6 @@ Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{
 
 [Files]
 Source: "C:\Users\Sylvia\Desktop\PonyTown-Client\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Sylvia\Desktop\PonyTown-Client\presence_helper.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Users\Sylvia\Desktop\PonyTown-Client\apple.ico"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
