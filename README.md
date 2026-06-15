@@ -8,8 +8,9 @@ Features:
  - Simple browser based hotkeys
 
 Roadmap:
- - Offline mode (although this might be impossible)
- - Discord Rich Presence that shows more detailed information
+ - Add the option for Offline Mode
+ - Add a "BetterReporting" system that allows players to report other ponies, whether for chat or for skin. If they are reported for a good reason, they won't show up in the PonyTown-Client.
+ - Give the README a glowup
 
 Only for Windows at the moment. If you want to make a Linux or MacOS fork then that's fine with me!
 
